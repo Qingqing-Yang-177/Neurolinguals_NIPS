@@ -9,17 +9,13 @@ Neurolinguals_NIPS
         ├── Reps_Extraction
         └── RDM
     └── Brain
-        ├── data_download
-        ├── ROI_RDM
-        └── Searchlight_RDM
-    └── RSA
-        ├── ROI_RSA
+        ├── data_download_scripts
+        ├── ROI_RDM_RSA
         └── Searchlight_RSA
     └── Viusalization
 └── results
-    ├── Model_RDM
-    ├── Brain_ROI_RDM
-    ├── Searchlight_RDM
+    ├── Model_RDMs
+    ├── Brain_ROI_RDMs
     ├── Brain_ROI_RSA
     └── Searchlight_RSA
 └── utlitis
